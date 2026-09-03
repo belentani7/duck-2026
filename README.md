@@ -14,9 +14,8 @@ Abre [`DUCK-SYSTEM-2026.html`](./DUCK-SYSTEM-2026.html). Es la nueva capa consol
 | [`DUCK-MATRIZ-Y-ARQUITECTURA-2026.md`](./DUCK-MATRIZ-Y-ARQUITECTURA-2026.md) | Matriz de capacidades, comparación de versiones, arquitectura y límites reales. |
 | [`DUCK-TECHNICAL-AUDIT.md`](./DUCK-TECHNICAL-AUDIT.md) | Inventario técnico de scripts, funciones, APIs, eventos, automatizaciones y URLs. |
 | [`DUCK-BROWSER-TEST-2026.md`](./DUCK-BROWSER-TEST-2026.md) | Registro de ejecución y pruebas realizadas en navegador. |
-| `DUCK-2026-ACTUALIZADO.html` | Variante anterior basada principalmente en Mega, conservada para comparación. |
 | `index.html`, `app.js`, `data.js`, `styles.css` | Fuentes operativas separadas del portfolio y del catálogo. |
-| `DUCK-MEGA-UNIFICADO.html`, `02-DUCK-FUSIONADO-COMPLETO.html`, `legacy-studio-console.html` | Variantes originales preservadas. |
+| `archive/` | Variantes originales (`DUCK-MEGA-UNIFICADO.html`, `DUCK-2026-ACTUALIZADO.html`, `02-DUCK-FUSIONADO-COMPLETO.html`, `legacy-studio-console.html`) conservadas fuera de la raíz. |
 
 ## Capacidades verificadas
 
